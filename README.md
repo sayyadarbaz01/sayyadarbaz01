@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Arbaz+Sayyad;Full-Stack+Developer;Software+Engineer;AI+%26+GenAI+Engineer;Building+Scalable+Digital+Solutions&font=JetBrains%20Mono&center=true&width=560&height=50&color=FF007F&vCenter=true&size=20&pause=1200&duration=2200">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Arbaz+Sayyad;Full-Stack+Developer;Software+Engineer;AI+Integration+Engineer;Building+Scalable+Digital+Solutions&font=JetBrains%20Mono&center=true&width=560&height=50&color=FF007F&vCenter=true&size=20&pause=1200&duration=2200">
 </div>
 
 <h1 align="center">Arbaz Sayyad</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer · Software Engineer · AI & GenAI Engineer</strong>
+  <strong>Full-Stack Developer · Software Engineer · AI Integration Engineer</strong>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ Experienced in developing modern applications using **React.js, Next.js, TypeScr
 
 My professional experience includes working on **enterprise BFSI applications**, where I have designed APIs and microservices, developed reusable frontend architectures, optimized application performance, implemented secure authentication and authorization systems, and contributed to high-volume compliance workflows.
 
-I also work with **AI and Generative AI technologies**, including **OpenAI APIs, LLM integration, Retrieval-Augmented Generation (RAG), embeddings, and vector search**, applying them to practical enterprise and business use cases.
+I also specialize in **AI integration and Generative AI technologies**, including **OpenAI APIs, LLM integration, Retrieval-Augmented Generation (RAG), embeddings, and vector search**, applying them to practical enterprise and business use cases.
 
 Currently, I am building **TaxFlow AI**, a multi-tenant SaaS platform focused on automating workflows for Indian CA firms.
 
@@ -37,7 +37,7 @@ Currently, I am building **TaxFlow AI**, a multi-tenant SaaS platform focused on
 Role
 ├── Full-Stack Developer
 ├── Software Engineer
-└── AI & GenAI Engineer
+└── AI Integration Engineer
 
 Core Engineering
 ├── Frontend Architecture
@@ -48,12 +48,13 @@ Core Engineering
 ├── Performance Optimization
 └── Cloud & CI/CD
 
-AI & GenAI
+AI Integration
 ├── OpenAI API
 ├── LLM Integration
 ├── Retrieval-Augmented Generation
 ├── Embeddings
-└── Vector Search
+├── Vector Search
+└── AI-Powered Business Workflows
 ```
 
 ---
@@ -147,7 +148,7 @@ AI & GenAI
 **Technologies:** React.js · Node.js · TypeScript · REST APIs · OpenAI API · RAG
 
 * Developing **TaxFlow AI**, a multi-tenant SaaS platform for Indian CA firms.
-* Building workflows covering **ITR filing, GST management, billing, client management, and related tax operations**, with **9+ business workflows** currently targeted for automation.
+* Building workflows covering **ITR filing, GST management, billing, client management, and related tax operations**, with **9+ business workflows** targeted for automation.
 * Integrated the **OpenAI API** into an AI-powered tax assistant using **RAG and embeddings** for domain-specific information retrieval.
 * Developing reusable application modules backed by REST APIs with emphasis on maintainability, testing, performance, and scalable architecture.
 * Applying AI capabilities within conventional business software to create practical, domain-specific intelligent workflows.
@@ -231,7 +232,7 @@ A professional portfolio application designed to showcase engineering experience
 
 <td width="50%" valign="top">
 
-### AI & GenAI Engineering
+### AI Integration
 
 * OpenAI API Integration
 * LLM Applications
@@ -263,7 +264,7 @@ A professional portfolio application designed to showcase engineering experience
 | Page Load Optimization      | **4.0s → 2.0s**                               |
 | Development Efficiency      | **~25% improvement**                          |
 | API / Data Latency          | **~30% reduction**                            |
-| AI / GenAI                  | **OpenAI · RAG · Vector Search · Embeddings** |
+| AI Integration              | **OpenAI · RAG · Vector Search · Embeddings** |
 
 ---
 
@@ -302,17 +303,13 @@ Synechron Technologies — Recognized for exceptional contribution to project de
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=sayyadarbaz01&layout=compact&theme=synthwave" alt="Top Languages">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayyadarbaz01&theme=neon-dark" alt="Contribution Graph">
-</p>
-
 ---
 
 ## Current Direction
 
-Currently focused on building **scalable full-stack applications and practical AI-powered software systems**, with particular interest in:
+Currently focused on building **scalable full-stack applications and practical AI-integrated software systems**, with particular interest in:
 
-**Generative AI · LLM Applications · RAG · Vector Search · AI Assistants · SaaS Architecture · Full-Stack Engineering · Cloud Applications**
+**AI Integration · Generative AI · LLM Applications · RAG · Vector Search · AI Assistants · SaaS Architecture · Full-Stack Engineering · Cloud Applications**
 
 ---
 
@@ -329,4 +326,3 @@ Currently focused on building **scalable full-stack applications and practical A
 <p align="center">
   <i>Building scalable software. Integrating intelligence. Solving real-world problems.</i>
 </p>
-
